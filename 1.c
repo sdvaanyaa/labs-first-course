@@ -74,3 +74,4 @@ int main (void) {
     laba9(i, j, l);
     return 0;
 }
+
